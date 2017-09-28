@@ -1,6 +1,6 @@
 # IoTPillow
 ![zeeqsmartpillow](https://user-images.githubusercontent.com/23643452/30967850-709a4916-a42b-11e7-94f7-139c8ca3712e.jpg)
-
+image from: https://www.engadget.com/2016/07/12/zeeq-smart-pillow/#/ <br/>
 <h2>	IoT Device: ZEEQ Smart Pillow<br/></h2>
 <h4>•	Company: REM-Fit (from the U.S. since 2014) is a division of ‘Protect-A-Bed’ company</h4>
 <h4>•	Functionality:<br/>
