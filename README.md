@@ -18,4 +18,4 @@ o	Battery Charge: USB Cable <br/></h5>
 Last but the least function is the anti-snoring vibration motor. In other words, the pillow can also sense the decimal of your snore and decides whether to give vibration and let you automatically change the position. It contains a small microphone inside the pillow which could detect the snoring throughout the night.<br/>
 
 ![Image of FlowChart]
-(http://people.duke.edu/~jh518/pic/FlowChart_IoT.png)
+(http://people.duke.edu/~jh518/pic/FlowChart_IoT.jpg)
