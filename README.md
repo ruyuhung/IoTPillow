@@ -6,7 +6,7 @@
 o	Play the music before you sleep<br/>
 o	Vibration motor is activated when the snore is too loud<br/>
 o	Wake you up according to the REM cycle or the alarm setting</h5><br/>
-<h4>•	Material:</h4><br/>
+<h4>•	Material:<br/>
 <h5>o	Tencel Fabric<br/>
 o	Memory Foam<br/>
 o	8 Precision Wireless Speakers<br/>
