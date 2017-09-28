@@ -17,5 +17,4 @@ o	Battery Charge: USB Cable <br/></h5>
 <p>For ZEEQ Smart Pillow, it uses three chunks of sensor, speaker, vibration motor in a pillow. Like other internet of things, it connects with a mobile phone application. Through the application you can further connect your pillow to your favorite music player, such as, apple music or Spotify. Therefore, it becomes an alarm if you want it to be. In addition to music player function, the most important functionality is its sleeping cycle analysis ability. All the data is collected inside the APP with several visualization charts and diagrams.</p><br/>
 Last but the least function is the anti-snoring vibration motor. In other words, the pillow can also sense the decimal of your snore and decides whether to give vibration and let you automatically change the position. It contains a small microphone inside the pillow which could detect the snoring throughout the night.<br/>
 
-![Image of FlowChart]
-(http://people.duke.edu/~jh518/pic/FlowChart_IoT.jpg)
+![flowchart_iot](https://user-images.githubusercontent.com/23643452/30944859-af62606a-a3c8-11e7-9826-a698fb2608c4.jpg)
